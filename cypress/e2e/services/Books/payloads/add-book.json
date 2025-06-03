@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "title": "Livro",
+  "description": "Um livro do Driano",
+  "pageCount": 0,
+  "excerpt": "string",
+  "publishDate": "2025-06-03T02:36:56.201Z"
+}
