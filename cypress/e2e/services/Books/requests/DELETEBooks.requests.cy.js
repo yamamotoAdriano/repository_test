@@ -1,4 +1,4 @@
-/// <reference types="cypress"/>
+/// <reference types="cypress"  />
 
 function deleteBooks (idBook) {
     return cy.request({
